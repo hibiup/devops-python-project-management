@@ -1,0 +1,10 @@
+.idea
+*.iml
+__pycache__
+
+build
+*.egg-info
+dist
+*.pyc
+.scannerwork
+.venv
